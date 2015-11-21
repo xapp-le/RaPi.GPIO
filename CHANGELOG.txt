@@ -1,0 +1,4 @@
+1. First version for Banana Pro.
+2. Use the mem method to control the gpio.
+3. Add the RAW mode.
+4. Support Roseapple Pi
